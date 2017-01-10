@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name                    = "mje-nz-mistakes-jekyll"
-  spec.version                 = "4.1.1.1"
+  spec.version                 = "4.1.1.2"
   spec.authors                 = ["Matthew Edwards", "Michael Rose"]
 
   spec.summary                 = %q{Minor tweaks to Michael Rose's Minimal Mistakes theme.}

@@ -5,3 +5,4 @@ See upstream for full Readme.
 Changes:
 
 * Build stylesheets ahead of time in the gem to speed up Jekyll build time
+* Remove version in querystring from FontAwesome as I have my own revving later
